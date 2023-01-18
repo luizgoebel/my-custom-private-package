@@ -7,7 +7,7 @@
 
     <PackageId>MyCustomPrivatePackageFromLuiz</PackageId>
 		<Version>1.0.0</Version>
-		<Authors>Luiz Goebel</Authors>
+		<Authors>Luiz Goebels</Authors>
 		<Company>Luiz.Goebel</Company>
 		<PackageDescription>Meu pacote teste</PackageDescription>
 		<RepositoryUrl>https://github.com/luizgoebel/my-custom-private-package</RepositoryUrl>
