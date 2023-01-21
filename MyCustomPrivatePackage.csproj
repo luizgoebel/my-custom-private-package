@@ -13,4 +13,8 @@
 		<RepositoryUrl>https://github.com/luizgoebel/my-custom-private-package</RepositoryUrl>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MyCustomPrivatePackageFromLuiz" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>
